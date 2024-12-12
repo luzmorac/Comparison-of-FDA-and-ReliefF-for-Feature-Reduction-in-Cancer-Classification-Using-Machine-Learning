@@ -37,7 +37,7 @@ The project evaluates the performance of six machine learning classifiers:
 
 ## How to Run the Project
 1. Clone the repository:
-        #--- git clone https://github.com/yourusername/cancer-classification.git
+   #--- git clone https://github.com/yourusername/cancer-classification.git
     #-- Visualizamos la imagen hibrida r
     ###-- cd cancer-classification
 3. Install dependencies:
