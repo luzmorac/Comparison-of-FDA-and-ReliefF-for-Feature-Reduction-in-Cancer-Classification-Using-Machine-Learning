@@ -1,4 +1,10 @@
 # Comparison-of-FDA-and-ReliefF-for-Feature-Reduction-in-Cancer-Classification-Using-Machine-Learning
+
+The program was made in Google Colab using Python 3
+Project Link: [https://drive.google.com/file/d/1hjshpWTrIDtshX5W7hMb3RXnFKneIYsI/view?usp=sharing](https://colab.research.google.com/drive/1WCAE94yAz-Lhq8AUuH2lo2ucTyz_1lEB?usp=sharing) (Open with Google Colaboratory)
+
+The code file is also located in this GitHub project with the name: "Comparison-of-FDA-and-ReliefF-for-Feature-Reduction-in-Cancer-Classification-Using-Machine-Learning"
+
 This project focuses on classifying cancer subtypes using gene expression data from the Gene Expression Cancer RNA-Seq dataset. The dataset contains high-dimensional features, making it challenging for machine learning models to perform effectively. To address this, two feature reduction techniques are applied:
 1. Fisher Discriminant Analysis (FDA) – A feature extraction method that maximizes class separability.
 2. ReliefF – A feature selection method that identifies the most relevant features for classification.
@@ -31,9 +37,9 @@ The project evaluates the performance of six machine learning classifiers:
 
 ## How to Run the Project
 1. Clone the repository:
-    ###-- git clone https://github.com/yourusername/cancer-classification.git
-    ###-- cd cancer-classification
+    # -- git clone https://github.com/yourusername/cancer-classification.git
+    # -- cd cancer-classification
 2. Install dependencies:
-    ###-- pip install -r requirements.txt
+    # -- pip install -r requirements.txt
 3. Run the notebook or script to perform feature reduction and model training.
 
