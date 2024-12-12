@@ -39,10 +39,12 @@ The project evaluates the performance of six machine learning classifiers:
 1. Clone the repository:
 
    #--- git clone https://github.com/yourusername/cancer-classification.git
-                #-- Visualizamos la imagen hibrida r
-       ###-- cd cancer-classification
+
+   #-- cd cancer-classification
    
 3. Install dependencies:
-    #-- pip install -r requirements.txt
-4. Run the notebook or script to perform feature reduction and model training.
+
+   #-- pip install -r requirements.txt
+   
+5. Run the notebook or script to perform feature reduction and model training.
 
