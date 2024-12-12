@@ -38,7 +38,7 @@ The project evaluates the performance of six machine learning classifiers:
 ## How to Run the Project
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/cancer-classification.git
+   git clone https:[//github.com/yourusername/cancer-classification.git](https://github.com/luzmorac/Comparison-of-FDA-and-ReliefF-for-Feature-Reduction-in-Cancer-Classification-Using-Machine-Learning.git)
 
    cd cancer-classification
    
